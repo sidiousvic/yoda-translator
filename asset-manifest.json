@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yoda-translator/static/css/main.03458536.chunk.css",
+    "main.js": "/yoda-translator/static/js/main.a710d02e.chunk.js",
+    "main.js.map": "/yoda-translator/static/js/main.a710d02e.chunk.js.map",
+    "runtime-main.js": "/yoda-translator/static/js/runtime-main.565aec6c.js",
+    "runtime-main.js.map": "/yoda-translator/static/js/runtime-main.565aec6c.js.map",
+    "static/js/2.d14e429e.chunk.js": "/yoda-translator/static/js/2.d14e429e.chunk.js",
+    "static/js/2.d14e429e.chunk.js.map": "/yoda-translator/static/js/2.d14e429e.chunk.js.map",
+    "index.html": "/yoda-translator/index.html",
+    "precache-manifest.651633f992a33170b900bb02bbefce4d.js": "/yoda-translator/precache-manifest.651633f992a33170b900bb02bbefce4d.js",
+    "service-worker.js": "/yoda-translator/service-worker.js",
+    "static/css/main.03458536.chunk.css.map": "/yoda-translator/static/css/main.03458536.chunk.css.map",
+    "static/media/App.css": "/yoda-translator/static/media/yoda-background.3682a5f1.jpg",
+    "static/media/Button.css": "/yoda-translator/static/media/yoda-head.09ea0a49.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.565aec6c.js",
+    "static/js/2.d14e429e.chunk.js",
+    "static/css/main.03458536.chunk.css",
+    "static/js/main.a710d02e.chunk.js"
+  ]
+}
