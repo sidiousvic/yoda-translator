@@ -1,6 +1,5 @@
 # Like Yoda, Say It
 
-An English to Yoda translator. 👽
 
 <img src="./public/screen.png">
 
