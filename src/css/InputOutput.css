@@ -1,0 +1,29 @@
+.Input,
+.Output {
+  height: 50%;
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.Output textarea {
+  user-select: none;
+}
+
+textarea {
+  width: 90%;
+  height: 50%;
+  padding: 3%;
+  border: white 1px solid;
+  border-radius: 10px;
+  color: white;
+  font-family: Cormorant;
+  font-size: 150%;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+textarea:focus {
+  outline-color: lime;
+}

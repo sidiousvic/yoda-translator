@@ -1,0 +1,26 @@
+.Button {
+  height: 10%;
+  width: 40%;
+}
+
+input[type="button"] {
+  color: white;
+  font-family: Cormorant;
+  font-size: 150%;
+  border-radius: 10px;
+  height: 100%;
+  width: 100%;
+  cursor: pointer;
+  border: none;
+  transition: 0.07s linear;
+  background: rgba(0, 0, 0, 0.9);
+}
+
+input[type="button"]:hover {
+  transform: scale(1.05);
+}
+
+input[type="button"]:focus {
+  transform: scale(1.05);
+  outline: none;
+}
