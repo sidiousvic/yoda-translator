@@ -7,7 +7,6 @@ class Button extends React.Component {
       <div className="Button">
         <input
           type="button"
-          value="Like Yoda, Say It"
           onClick={e => {
             this.props.yodaTranslate(this.props.input);
             console.log(this.props);
