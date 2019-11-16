@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yoda-translator/precache-manifest.651633f992a33170b900bb02bbefce4d.js"
+  "/yoda-translator/precache-manifest.90341b39f9b0da350d2d23682975b961.js"
 );
 
 self.addEventListener('message', (event) => {

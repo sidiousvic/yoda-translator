@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c822174682372e7966a0447f4cd93a4d",
+    "revision": "c7a81652a32c856d5c02d1e7c557b4c0",
     "url": "/yoda-translator/index.html"
   },
   {
