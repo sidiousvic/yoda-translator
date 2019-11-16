@@ -12,6 +12,7 @@ class Translator extends React.Component {
   render() {
     return (
       <div className="translator-wrapper">
+        <h1>Like Yoda, Say It</h1>
         <div className="translator">
           <Input id="input" />
           <Button
