@@ -1,6 +1,6 @@
 const defaultState = {
   input: null,
-  output: null
+  output: "Something, write above."
 };
 
 const reducer = (state = defaultState, action) => {
